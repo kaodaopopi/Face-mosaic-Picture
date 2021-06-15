@@ -1,5 +1,5 @@
 ## **結果圖**
-
+![image](https://github.com/kaodaopopi/Face-mosaic-Picture/blob/main/Results.JPG)
 
 
 ## **使用軟體的版本**
